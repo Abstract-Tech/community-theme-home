@@ -1,8 +1,8 @@
-@import "@edx/brand/paragon/fonts.scss";
-@import "@edx/brand/paragon/variables.scss";
+@import "@abstract-tech/community-theme-brand/paragon/fonts.scss";
+@import "@abstract-tech/community-theme-brand/paragon/variables.scss";
 @import "@edx/paragon/scss/core/core.scss";
-@import "@edx/brand/paragon/overrides.scss";
+@import "@abstract-tech/community-theme-brand/paragon/overrides.scss";
 
 
-@import "~@edx/frontend-component-header/dist/index";
-@import "~@edx/frontend-component-footer/dist/footer";
+@import "~@abstract-tech/community-theme-header/dist/index";
+@import "~@abstract-tech/community-theme-footer/dist/footer";
